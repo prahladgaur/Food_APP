@@ -1,0 +1,9 @@
+button{
+    margin:15px;
+}
+.room-lit{
+    background-color: aquamarine;
+}
+.room-dark{
+    background-color: bisque;
+}

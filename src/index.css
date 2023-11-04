@@ -1,0 +1,11 @@
+*{
+  background-color: rgb(124, 192, 192);
+}
+.d{
+  font-weight: bold ;
+}
+#app{
+  text-align: center;
+  margin-top: 20%;
+  font-size:xx-large;
+}
